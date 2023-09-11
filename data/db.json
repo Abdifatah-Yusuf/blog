@@ -1,0 +1,24 @@
+{
+    "blogs":[
+        {
+        "title":"programing",
+        "body":"Understanding programing",
+        "author":"Abdifatah",
+        "id":1
+    },
+    
+    {
+        "title":"programing Languages",
+        "body":"We have various programing languages...",
+        "author":"Abdifatah",
+        "id":2
+    },
+    
+    {
+        "title":"Javascript",
+        "body":"Javascript is used for...",
+        "author":"Abdifatah",
+        "id":3
+    }
+    ]
+    }
