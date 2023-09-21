@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Use from './components/use';
 import Effect from './components/use';
 import Create from './components/create';
+import axios from 'axios';
 function App() {
   return (
     <div className="App">
